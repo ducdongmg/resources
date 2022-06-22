@@ -117,3 +117,5 @@
 - [Rome](https://rome.tools): A new frontend toolchain designed to replace Babel, ESLint, webpack, Prettier, Jest, and others. From the creator of Babel and Yarn, Sebastian McKenzie.
 
 - [JavaScript Tutorial](https://www.javascripttutorial.net/): A complete Javascript tutorial series for complete beginners to intermediate level. If you are not sure where to start learning javascript then this is a good place to start.
+
+- [Typescript Book](https://typescriptbook.jp/): For who can understand Japanese. A complete Typescript tutorial series for complete beginners to intermediate level. 
